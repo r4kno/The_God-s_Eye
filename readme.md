@@ -171,7 +171,7 @@ Distance = (Known_Height × Focal_Length) / Perceived_Height_Pixels
 ## 📊 Performance Metrics
 
 - **Detection Speed**: ~30-60 FPS (GPU dependent)
-- **Accuracy**: >95% for person detection, >85% for weapon detection
+- **Accuracy**: >98% for person detection, >85% for weapon detection
 - **Response Time**: <100ms for threat identification
 - **Range**: Effective up to 50+ meters (distance dependent)
 
@@ -202,14 +202,6 @@ Distance = (Known_Height × Focal_Length) / Perceived_Height_Pixels
 - **Human Oversight**: Always maintain human oversight for any automated response systems
 - **Data Privacy**: Implement proper data handling and privacy protection measures
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is provided for educational and legitimate security purposes only. Users are responsible for ensuring ethical and legal usage in their jurisdiction.
@@ -217,7 +209,7 @@ This project is provided for educational and legitimate security purposes only. 
 ## 📞 Contact
 
 - **GitHub**: [@r4kno](https://github.com/r4kno)
-- **Project Link**: [https://github.com/r4kno/The_God-s_Eye](https://github.com/r4kno/The_God-s_Eye)
+- **Email**: [onkargupta0864@gmail.com](mailto:onkargupta0864@gmail.com)
 
 ## 🙏 Acknowledgments
 
