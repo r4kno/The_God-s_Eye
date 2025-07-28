@@ -82,7 +82,7 @@ This runs the complete surveillance system along with person detection, weapon d
 ```bash
 python code_base.py
 ```
-This runs the complete surveillance system with person detection, weapon detection, and Arduino control.
+This runs the complete surveillance system with person detection and Arduino control.
 
 #### Distance Estimation
 ```bash
