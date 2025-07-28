@@ -214,7 +214,6 @@ This project is provided for educational and legitimate security purposes only. 
 
 ## 📞 Contact
 
-- **GitHub**: [@r4kno](https://github.com/r4kno)
 - **Email**: [onkargupta0864@gmail.com](mailto:onkargupta0864@gmail.com)
 
 ## 🙏 Acknowledgments
