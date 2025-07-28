@@ -34,6 +34,7 @@ The God's Eye is an intelligent surveillance system that uses YOLO (You Only Loo
 ├── model_testing.py          # Model validation and testing
 ├── training.py               # Custom model training script
 ├── rough.py                  # Advanced multi-threaded implementation
+├── rough2.py                 # Best model with evverything running 
 ├── check_port.py            # Arduino port detection utility
 ├── requirements.txt         # Python dependencies
 └── README.md               # Project documentation
@@ -72,11 +73,16 @@ pip install -r requirements.txt
 
 ### Usage
 
+#### Best System (rough2.py)
+```bash
+python rough2.py
+```
+This runs the complete surveillance system along with person detection, weapon detection, threat detection and announcements and Arduino control.
 #### Main System (code_base.py)
 ```bash
 python code_base.py
 ```
-This runs the complete surveillance system with person detection, weapon detection, threat assessment, and Arduino control.
+This runs the complete surveillance system with person detection, weapon detection, and Arduino control.
 
 #### Distance Estimation
 ```bash
