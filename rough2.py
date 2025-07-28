@@ -46,7 +46,7 @@ class PersonDetector:
     def __init__(self):
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.model = YOLO('yolov8m.pt').to(self.device)
-        self.model2 = YOLO('new.pt').to(self.device)
+        self.model2 = YOLO('weapon.pt').to(self.device)
         self.desired_classes1 = [0]  # Person class
         self.desired_classes2 = [1]  # Gun class
         self.previous_count = 0
